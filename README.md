@@ -1,2 +1,2 @@
 # JJR.com
-code
+code for a website I made
